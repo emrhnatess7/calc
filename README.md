@@ -1,2 +1,2 @@
 # calc
-a calculator with 22 functions, capable of performing trigonometric and logarithmic operations, and featuring a calculation history function.
+22 farklı fonksiyona sahip, trigonometrik ve logaritmik işlemler yapabilen ve hesaplama geçmişi fonksiyonu içeren bir hesap makinesi.
